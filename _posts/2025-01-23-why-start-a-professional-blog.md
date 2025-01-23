@@ -2,7 +2,7 @@
 title: "Why Start a Professional Blog?"
 author: brownm09
 layout: post
-date: "2025-01-27"
+date: "2025-01-23"
 # permalink: /blog/why-start-a-professional-blog/
 categories:
   - Writing
