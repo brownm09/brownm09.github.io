@@ -10,6 +10,6 @@ excerpt: "TBD"
 comments: true
 ---
 
-{% include image.html url="/images/PXL_20201118_160602796_Cropped.jpg" alt="a wooden desk with computer monitor" caption="Photo by Author" %}
+{% include image.html url="/images/PXL_20201118_160602796_Cropped.png" alt="a wooden desk with computer monitor" caption="Photo by Author" %}
 
 Sample text.
