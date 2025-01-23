@@ -20,7 +20,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   I'm an engineering leader. Welcome to my site.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://theperfectcompromise.com" # the base hostname & protocol for your site
+url: "https://brownm09.github.io" # the base hostname & protocol for your site
 # twitter_username: brownm09
 github_username: brownm09
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!--more-->"
 # google_analytics: UA-112266652-1
 
 # SEO stuff
-# google_author: "https://plus.google.com/u/0/+AnjuanSimmons"
+# google_author: "https://plus.google.com/u/0/"
 
 plugins:
   - jekyll-sitemap
