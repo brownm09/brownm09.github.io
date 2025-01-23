@@ -268,20 +268,22 @@ ul#archive li {
        border-top: #999 1px dotted;
        border-bottom: #999 1px dotted;
        padding: .1em 0 .1em .5em;
-       background: #fff;
+       //    background: #fff;
+       background: #333;
 }
 
 ul#archive  h2 {
 	padding-top: .5em }
 
 ul#archive li.alt {
-       background: #f6f6f6;
+    //    background: #f6f6f6;
+       background: #333;
 }
 
 .archiveposturl {
        display: block;
-
-       color: #333;
+    //    color: #333;
+       color: #f6f6f6;
 }
 
 .archiveposturl:hover {
