@@ -20,7 +20,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   I'm an engineering leader. Welcome to my site.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://brownm09.github.io" # the base hostname & protocol for your site
+url: "https://localhost:4000" # the base hostname & protocol for your site
 # twitter_username: brownm09
 github_username: brownm09
 
@@ -28,7 +28,7 @@ github_username: brownm09
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname:
+  shortname: the-perfect-compromise
 
 # Build settings
 markdown: kramdown
